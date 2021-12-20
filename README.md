@@ -6,4 +6,5 @@
 
 # Folder
 Dentro da pasta Script fica a automação e dentro de queries fica as consulta separadamentes.
+
 Inside the Script folder is automation and inside queries it is separate queries.
